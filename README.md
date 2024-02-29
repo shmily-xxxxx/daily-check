@@ -1,0 +1,2 @@
+# daily-check
+for myself
